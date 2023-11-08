@@ -1,0 +1,20 @@
+form{
+	display:inline-block;
+	margin:50px,auto,50px,auto;
+}
+.log{
+	padding-left:5px;
+	margin: 5px 0;
+	width:155px;
+	border:1px solid #75c9f3;
+	height:25px;
+}
+
+form p{
+	display:inline-block;
+	vertical-align:middle;
+
+}
+form{
+	border: 1px solid blue;
+}

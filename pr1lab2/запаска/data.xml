@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<airport>
+Домодедово
+	<flight number='1'>
+	Рейс 1
+		<airplane series='42' nubmer='001'>
+			<airlane kod='002' name='Флеш'>
+				<client kod='001' FIO='Сидоров Александр Николаевич' pasport='2317434231'>
+					<place number='1' class='Бизнес'></place>
+					<place number='2' class='Премиум'></place>
+				</client>
+				<client kod='002' FIO='Леонова Людмила Дмитриевна' pasport='1155256432'>
+					<place number='3' class='Премиум'></place>
+					<place number='4' class='Эконом'></place>
+				</client>
+			</airlane>
+			<airlane kod='001' name='ЛетоСам'>
+				<client kod='014' FIO='Жоров Вадим Егорович' pasport='5217456382'>
+					<place number='5' class='Эконом'></place>
+					<place number='6' class='Эконом'></place>
+				</client>
+				<client kod='015' FIO='Тихонов Алексей Петрович' pasport='1146246523'>
+					<place number='7' class='Премиум'></place>
+					<place number='8' class='Эконом'></place>
+				</client>
+			</airlane>
+		</airplane>
+		<airplane series='43' nubmer='002'>
+			<airlane kod='005' name='БыстроЛёт'>
+				<client kod='010' FIO='Борисов Алексей Анатольевич' pasport='7117426490'>
+					<place number='1' class='Бизнес'></place>
+					<place number='2' class='Эконом'></place>
+				</client>
+				<client kod='011' FIO='Горбачева Ольга Николаевна' pasport='7147441647'>
+					<place number='3' class='Премиум'></place>
+					<place number='4' class='Бизнес'></place>
+				</client>
+			</airlane>
+			<airlane kod='004' name='РосАэроФлот'>
+				<client kod='012' FIO='Петров Александр Ильич' pasport='4127436549'>
+					<place number='7' class='Эконом'></place>
+					<place number='8' class='Премиум'></place>
+				</client>
+				<client kod='013' FIO='Петров Дмитрий Ильич' pasport='5246356641'>
+					<place number='9' class='Премиум'></place>
+					<place number='10' class='Эконом'></place>
+				</client>
+			</airlane>
+		</airplane>
+			<route kod="01">
+	Маршрут 1
+		<departure kod="01" name="Ромашка">
+		Отправка 1
+		</departure>
+		<arrival kod="01" name="Глобус">
+		Прибытие 1
+		</arrival>
+		<departure kod="02" name="Дрофа">
+		Отправка 2
+		</departure>
+		<arrival kod="02" name="Гусеница">
+		Прибытие 2
+		</arrival>
+		<departure kod="03" name="Паровоз">
+		Отправка 3
+		</departure>
+		<arrival kod="03" name="Лодка">
+		Прибытие 3
+		</arrival>
+	</route>
+	</flight>
+	<flight number='2'>
+	Рейс 2
+		<airplane series='43' nubmer='003'>
+			<airlane kod='002' name='Флеш'>
+				<client kod='004' FIO='Текутьев Александр Николаевич' pasport='7117456234'>
+					<place number='1' class='Эконом'></place>
+					<place number='2' class='Эконом'></place>
+				</client>
+				<client kod='005' FIO='Горбачева Елена Николаевна' pasport='7147456564'>
+					<place number='3' class='Премиум'></place>
+					<place number='4' class='Эконом'></place>
+				</client>
+				<client kod='006' FIO='Тверских Анатолий Петрович' pasport='7549456324'>
+					<place number='5' class='Эконом'></place>
+					<place number='6' class='Эконом'></place>
+				</client>
+			</airlane>
+			<airlane kod='004' name='РосАэроФлот'>
+				<client kod='007' FIO='Пожарных Андрей Игоревич' pasport='7117456582'>
+					<place number='7' class='Эконом'></place>
+					<place number='8' class='Премиум'></place>
+				</client>
+				<client kod='008' FIO='Ломоносов Виктор Дмитриевич' pasport='5146456672'>
+					<place number='9' class='Премиум'></place>
+					<place number='10' class='Эконом'></place>
+				</client>
+				<client kod='009' FIO='Иванов Денис Алексеевич' pasport='6559456421'>
+					<place number='11' class='Эконом'></place>
+					<place number='12' class='Эконом'></place>
+				</client>
+			</airlane>
+		</airplane>
+		<airplane series='43' nubmer='004'>
+			<airlane kod='005' name='БыстроЛёт'>
+				<client kod='010' FIO='Борисов Алексей Анатольевич' pasport='7117426490'>
+					<place number='1' class='Бизнес'></place>
+					<place number='2' class='Эконом'></place>
+				</client>
+				<client kod='011' FIO='Горбачева Ольга Николаевна' pasport='7147441647'>
+					<place number='3' class='Премиум'></place>
+					<place number='4' class='Бизнес'></place>
+				</client>
+			</airlane>
+			<airlane kod='004' name='РосАэроФлот'>
+				<client kod='012' FIO='Петров Александр Ильич' pasport='4127436549'>
+					<place number='7' class='Эконом'></place>
+					<place number='8' class='Премиум'></place>
+				</client>
+				<client kod='013' FIO='Петров Дмитрий Ильич' pasport='5246356641'>
+					<place number='9' class='Премиум'></place>
+					<place number='10' class='Эконом'></place>
+				</client>
+			</airlane>
+		</airplane>
+			<route kod="02">
+	Маршрут 2
+		<departure kod="01" name="Ромашка">
+		Отправка 4
+		</departure>
+		<arrival kod="01" name="Глобус">
+		Прибытие 4
+		</arrival>
+		<departure kod="02" name="Дрофа">
+		Отправка 5
+		</departure>
+		<arrival kod="02" name="Гусеница">
+		Прибытие 5
+		</arrival>
+		<departure kod="03" name="Паровоз">
+		Отправка 6
+		</departure>
+		<arrival kod="03" name="Лодка">
+		Прибытие 6
+		</arrival>
+	</route>
+	</flight>
+	<flight number='3'>
+	Рейс 3
+		<airplane series='44' nubmer='005'>
+			<airlane kod='007' name='Бондолёт'>
+				<client kod='016' FIO='Петрова Екатерина Егоровна' pasport='2137446231'>
+					<place number='1' class='Эконом'></place>
+					<place number='2' class='Эконом'></place>
+				</client>
+				<client kod='005' FIO='Горбачева Елена Николаевна' pasport='7147456564'>
+					<place number='3' class='Премиум'></place>
+					<place number='4' class='Эконом'></place>
+				</client>
+				<client kod='006' FIO='Тверских Анатолий Петрович' pasport='7549456324'>
+					<place number='5' class='Эконом'></place>
+					<place number='6' class='Эконом'></place>
+				</client>
+			</airlane>
+			<airlane kod='004' name='РосАэроФлот'>
+				<client kod='007' FIO='Пожарных Андрей Игоревич' pasport='7117456582'>
+					<place number='7' class='Эконом'></place>
+					<place number='8' class='Премиум'></place>
+				</client>
+				<client kod='008' FIO='Ломоносов Виктор Дмитриевич' pasport='5146456672'>
+					<place number='9' class='Премиум'></place>
+					<place number='10' class='Эконом'></place>
+				</client>
+				<client kod='009' FIO='Иванов Денис Алексеевич' pasport='6559456421'>
+					<place number='11' class='Эконом'></place>
+					<place number='12' class='Эконом'></place>
+				</client>
+			</airlane>
+		</airplane>
+		<airplane series='43' nubmer='004'>
+			<airlane kod='005' name='БыстроЛёт'>
+				<client kod='010' FIO='Борисов Алексей Анатольевич' pasport='7117426490'>
+					<place number='1' class='Бизнес'></place>
+					<place number='2' class='Эконом'></place>
+				</client>
+				<client kod='011' FIO='Горбачева Ольга Николаевна' pasport='7147441647'>
+					<place number='3' class='Премиум'></place>
+					<place number='4' class='Бизнес'></place>
+				</client>
+			</airlane>
+			<airlane kod='004' name='РосАэроФлот'>
+				<client kod='012' FIO='Петров Александр Ильич' pasport='4127436549'>
+					<place number='7' class='Эконом'></place>
+					<place number='8' class='Премиум'></place>
+				</client>
+				<client kod='013' FIO='Петров Дмитрий Ильич' pasport='5246356641'>
+					<place number='9' class='Премиум'></place>
+					<place number='10' class='Эконом'></place>
+				</client>
+			</airlane>
+		</airplane>
+		<route kod="03">
+	Маршрут 3
+		<departure kod="01" name="Ромашка">
+		Отправка 7
+		</departure>
+		<arrival kod="01" name="Глобус">
+		Прибытие 7
+		</arrival>
+		<departure kod="02" name="Дрофа">
+		Отправка 8
+		</departure>
+		<arrival kod="02" name="Гусеница">
+		Прибытие 8
+		</arrival>
+		<departure kod="03" name="Паровоз">
+		Отправка 9
+		</departure>
+		<arrival kod="03" name="Лодка">
+		Прибытие 9
+		</arrival>
+	</route>
+	</flight>
+</airport>
